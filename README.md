@@ -32,3 +32,4 @@ Looking after an animal is a truly daunting experience especially if you have li
 when the game is over
 yes = restart
 no = exit game
+test
